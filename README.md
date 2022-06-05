@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay D A.</h1>
 <h3 align="center">Welcome to my Github page! I am a senior at PES University. I am a passionate programmer keen on solving problems and taking up challenges. My interests include Data Science and Machine Learning. You can check out some of my work in this page.</h3>
 
-- 📫 How to reach me **abhayda2001@gmail.com**
+- 📫 How to reach me **linkedin.com/in/abhay-da**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
