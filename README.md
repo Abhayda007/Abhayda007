@@ -1,6 +1,6 @@
 # 💫About Me :
-Hi 👋! I'm Abhay D A, Senior at PES University.
-Welcome to my Github page. I am a passionate programmer keen on solving problems and taking up challenges. My interests include Data Science and Machine Learning. You can check out some of my work in this page.
+**Hi 👋! I'm Abhay D A, Senior at PES University.
+Welcome to my Github page. I am a passionate programmer keen on solving problems and taking up challenges. My interests include Data Science and Machine Learning. You can check out some of my work in this page.**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-da) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhayda2001) 
